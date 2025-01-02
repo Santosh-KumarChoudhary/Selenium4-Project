@@ -1,1 +1,8 @@
 hey i'm adding from the git hub ui
+
+for(int i=0;i<=5;i++)
+
+{
+System.out.println("Hey User");
+
+}
