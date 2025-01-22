@@ -21,7 +21,7 @@ public class KeysTabManagements {
 		
 		//it will open a new new tab with another url
 		
-		//driver.switchTo().newWindow(WindowType.TAB);
+		//'driver.switchTo().newWindow(WindowType.TAB);
 		
 		
 		// Now opeing 2 web pages in 2 diffrenet wind

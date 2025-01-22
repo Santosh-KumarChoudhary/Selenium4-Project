@@ -1,12 +1,13 @@
 Selenium4Classes/DynamicTableBootStraphandling.class
-Selenium4Classes/HandlebrowsersWindow.class
 Selenium4Classes/MouseActionsDragAnddropChallenge.class
+paralleltesting/ParalleltestingscriptusingXMLFile.class
 grouping/Smoke.class
 testNg/TestNgAnnotations.class
 Selenium4Classes/MouseActionsDoubleClickAssignments.class
 Selenium4Classes/DropDownAssignments.class
 Selenium4Classes/SeleniumAssignments.class
 Selenium4Classes/DropDownBootStrap.class
+Selenium4Classes/GitDemo.class
 testNg/SoftAssertion.class
 Selenium4Classes/KeysTabManagements.class
 Selenium4Classes/ChromeOptionsIncognitoMode.class
@@ -20,6 +21,7 @@ Selenium4Classes/AutoSuggestion.class
 grouping/Regression.class
 Selenium4Classes/FramesoriFramesHandling.class
 Selenium4Classes/CssSelector.class
+Selenium4Classes/KapurkaSiteTableChallenges.class
 Selenium4Classes/StaticTablePrac.class
 grouping/Sanity.class
 Selenium4Classes/FileUpload.class
@@ -54,6 +56,7 @@ dataprovider/Lecture1DataProvider.class
 testNBeforeAndAfterTest/c1.class
 Selenium4Classes/BeforeTestAndAfterTest2ndClass.class
 Selenium4Classes/StaticTable.class
+listeners/ListenerclasswithImplementation.class
 testNg/BeforeAndAfterMethodsExecution.class
 Selenium4Classes/MouseActionsRightClick.class
 Selenium4Classes/MouseActionsSlider.class

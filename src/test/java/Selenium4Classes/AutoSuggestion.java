@@ -54,7 +54,7 @@ for(WebElement all:option)
 
 System.out.println("All elemnet printed ");
 
-driver.close();
+//driver.close();
 		
 	}
 

@@ -43,7 +43,7 @@ public class ScreenshotManager {
 		//Capture screen shot of the specific section 
 		
 		
-		//here we will .getSceeshotAs(OutType.FILE) method od the WebElement interface not of the
+		//here we will .getSceeshotAs(OutType.FILE) method of the WebElement interface not of the
 		// TakesScreenshot interface
 //		
 	WebElement ele=	driver.findElement(By.xpath("//div[@class='product-grid home-page-product-grid']"));

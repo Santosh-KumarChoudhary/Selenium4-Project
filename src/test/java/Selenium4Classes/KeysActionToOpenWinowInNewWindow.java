@@ -40,6 +40,7 @@ System.out.println("Page 1 Title "+page1);
 		
 List<String>ids=	new ArrayList(	driver.getWindowHandles());
 
+
 driver.switchTo().window(ids.get(1));
 
 String title2=driver.getTitle();

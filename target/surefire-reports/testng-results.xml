@@ -1,40 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-02T16:22:16 IST" name="Surefire suite" finished-at="2025-01-02T16:22:16 IST" duration-ms="24">
+  <suite started-at="2025-01-13T10:09:19 IST" name="Surefire suite" finished-at="2025-01-13T10:09:19 IST" duration-ms="15">
     <groups>
-      <group name="sanity">
-        <method signature="Sanity.m2()[pri:0, instance:grouping.Sanity@6b4a4e18]" name="m2" class="grouping.Sanity"/>
-        <method signature="Sanity.m5()[pri:0, instance:grouping.Sanity@6b4a4e18]" name="m5" class="grouping.Sanity"/>
-        <method signature="Sanity.m3()[pri:3, instance:grouping.Sanity@6b4a4e18]" name="m3" class="grouping.Sanity"/>
-        <method signature="Sanity.m4()[pri:4, instance:grouping.Sanity@6b4a4e18]" name="m4" class="grouping.Sanity"/>
-        <method signature="Sanity.m1()[pri:12, instance:grouping.Sanity@6b4a4e18]" name="m1" class="grouping.Sanity"/>
-      </group> <!-- sanity -->
     </groups>
-    <test started-at="2025-01-02T16:22:16 IST" name="Surefire test" finished-at="2025-01-02T16:22:16 IST" duration-ms="24">
-      <class name="grouping.Sanity">
-        <test-method signature="m2()[pri:0, instance:grouping.Sanity@6b4a4e18]" started-at="2025-01-02T16:22:16 IST" name="m2" finished-at="2025-01-02T16:22:16 IST" duration-ms="2" status="PASS">
+    <test started-at="2025-01-13T10:09:19 IST" name="Surefire test" finished-at="2025-01-13T10:09:19 IST" duration-ms="15">
+      <class name="testNg.TestNgAnnotations">
+        <test-method signature="login()[pri:0, instance:testNg.TestNgAnnotations@60704c]" started-at="2025-01-13T10:09:19 IST" name="login" finished-at="2025-01-13T10:09:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- m2 -->
-        <test-method signature="m3()[pri:3, instance:grouping.Sanity@6b4a4e18]" started-at="2025-01-02T16:22:16 IST" name="m3" finished-at="2025-01-02T16:22:16 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- login -->
+        <test-method signature="homePage()[pri:2, instance:testNg.TestNgAnnotations@60704c]" started-at="2025-01-13T10:09:19 IST" name="homePage" finished-at="2025-01-13T10:09:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- m3 -->
-        <test-method signature="m5()[pri:0, instance:grouping.Sanity@6b4a4e18]" started-at="2025-01-02T16:22:16 IST" name="m5" finished-at="2025-01-02T16:22:16 IST" duration-ms="0" status="PASS">
+        </test-method> <!-- homePage -->
+        <test-method signature="checkOut()[pri:2, instance:testNg.TestNgAnnotations@60704c]" started-at="2025-01-13T10:09:19 IST" name="checkOut" finished-at="2025-01-13T10:09:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- m5 -->
-        <test-method signature="m4()[pri:4, instance:grouping.Sanity@6b4a4e18]" started-at="2025-01-02T16:22:16 IST" name="m4" finished-at="2025-01-02T16:22:16 IST" duration-ms="0" status="PASS">
+        </test-method> <!-- checkOut -->
+      </class> <!-- testNg.TestNgAnnotations -->
+      <class name="testNg.Test2">
+        <test-method signature="logout()[pri:0, instance:testNg.Test2@6293abcc]" started-at="2025-01-13T10:09:19 IST" name="logout" finished-at="2025-01-13T10:09:19 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- m4 -->
-        <test-method signature="m1()[pri:12, instance:grouping.Sanity@6b4a4e18]" started-at="2025-01-02T16:22:16 IST" name="m1" finished-at="2025-01-02T16:22:16 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- m1 -->
-      </class> <!-- grouping.Sanity -->
+        </test-method> <!-- logout -->
+      </class> <!-- testNg.Test2 -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
 </testng-results>

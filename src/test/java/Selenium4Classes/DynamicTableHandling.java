@@ -86,6 +86,6 @@ System.out.println(CustomerName +"\t"+emaildetails+"\t"+status );
 		System.out.println("Execution completed");
 		
 	}
-	driver.close();
+	//driver.close();
 
 }}

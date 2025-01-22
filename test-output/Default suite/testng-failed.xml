@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="listeners.NinjaCart">
+      <class name="Selenium4Classes.DropDownLea">
         <methods>
-          <include name="myFailedmethod"/>
-          <include name="tearDown"/>
-          <include name="launch"/>
+          <include name="handleDropDown"/>
         </methods>
-      </class> <!-- listeners.NinjaCart -->
+      </class> <!-- Selenium4Classes.DropDownLea -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
